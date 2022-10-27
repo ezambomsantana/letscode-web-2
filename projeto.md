@@ -10,4 +10,4 @@ Fazer uma aplicação que tenha uma entidade (pode ser a que o aluno preferir, r
 
 
 Entrega - 03/11 - último dia do módulo.
-O trabalho pode ser feito em duplas.
+O trabalho pode ser feito em duplas ou trios.
