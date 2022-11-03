@@ -9,5 +9,5 @@ Fazer uma aplicação que tenha uma entidade (pode ser a que o aluno preferir, r
 - Atualizar os dados de um objeto.
 
 
-Entrega - 03/11 - último dia do módulo.
+Entrega - 05/11 até as 13 horas.
 O trabalho pode ser feito em duplas ou trios.
