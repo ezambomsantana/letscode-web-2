@@ -9,6 +9,8 @@ import java.util.List;
 
 @Service
 public class ClienteService {
+    
+    // teste
 
     @Autowired
     private ClienteRepository clienteRepository;
